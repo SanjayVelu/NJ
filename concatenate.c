@@ -6,8 +6,7 @@ int main()
    scanf("%s",str1);
    printf("\nEnter second string: ");
    scanf("%s",str2);
-   
-    */
+ 
    for(i=0; str1[i]!='\0'; ++i); 
  
    for(j=0; str2[j]!='\0'; ++j, ++i)
