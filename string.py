@@ -1,3 +1,3 @@
 st=input()
 n=input()
-print(st*int(n),end = ' ')
+print(st*int(n), end = ' ')
